@@ -1,0 +1,3 @@
+target_override: HC32L110C6UA
+pack: Misc/HDSC.HC32L110.1.0.3.pack
+frequency: 10000000
